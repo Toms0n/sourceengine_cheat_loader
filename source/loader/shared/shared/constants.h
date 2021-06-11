@@ -1,0 +1,5 @@
+#pragma once
+
+#define NETWORK_PORT 53000
+#define NETWORK_IP "86.24.36.141"
+#define LOADER_VERSION 20002
